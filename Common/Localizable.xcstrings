@@ -18461,6 +18461,9 @@
         }
       }
     },
+    "Assistant QR Code" : {
+
+    },
     "Assistant URL" : {
       "localizations" : {
         "de" : {
@@ -95118,6 +95121,9 @@
         }
       }
     },
+    "QR Code" : {
+
+    },
     "Quick buttons" : {
       "localizations" : {
         "de" : {
@@ -95253,6 +95259,9 @@
           }
         }
       }
+    },
+    "Quick Pairing" : {
+
     },
     "Racing" : {
       "localizations" : {
@@ -104409,6 +104418,18 @@
         }
       }
     },
+    "Scan QR Code" : {
+
+    },
+    "Scan with %@ device" : {
+
+    },
+    "Scan with Assistant device" : {
+
+    },
+    "Scan with Streamer device" : {
+
+    },
     "Scene" : {
       "localizations" : {
         "de" : {
@@ -112236,6 +112257,9 @@
           }
         }
       }
+    },
+    "Show QR Code" : {
+
     },
     "Show sensitive URL" : {
       "localizations" : {
@@ -122489,6 +122513,9 @@
         }
       }
     },
+    "Streamer QR Code" : {
+
+    },
     "Streamer URL" : {
       "localizations" : {
         "de" : {
@@ -130615,6 +130642,9 @@
           }
         }
       }
+    },
+    "The Streamer device can scan this QR code to automatically connect to this Assistant." : {
+
     },
     "The TCP port the RTMP server listens for RTMP publishers on." : {
       "localizations" : {
